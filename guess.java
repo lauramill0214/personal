@@ -23,7 +23,6 @@ public class GuessingGame {
                 System.out.println("Number of guesses: " + count);
             }
         }
-        
         scanner.close();
     }
 }
